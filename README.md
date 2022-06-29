@@ -1,3 +1,4 @@
+
 # TaxAdda Frontend Assignment
 As part of our application process, we'd like to check your ability by giving you a small assignment. It should take you no more than a few hours to complete the assignment, but any extra polish or features you might want to put in, will not go unnoticed.
 
@@ -51,7 +52,7 @@ You should use the following tools to accomplish this task:
 * React
 * Redux (Optional)
 * Webpack (Create-react-app boilerplate is fine)
-* Typescript (Optional) 
+* Typescript (Optional)
 If you have any questions, please ask!
 
 To complete your assignment, please fork this repo and commit your work to your fork. When you are ready for us to look at it, give us access to your fork so we can review and run it. Please fill up this short form for its submission -
