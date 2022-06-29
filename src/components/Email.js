@@ -4,7 +4,6 @@ import { useState } from "react";
 export default function Email(props) {
   const [email, setEmail] = useState("");
   const { InvoiceItem } = props;
-  // console.log(InvoiceItem);
   const sendEmail = (e) => {
     e.preventDefault();
     console.log("Send Email was clicked");

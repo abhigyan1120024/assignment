@@ -5,7 +5,6 @@ export default function InvoiceItem(props) {
     const { invoices } = props;
     if (invoices.length > 0) {
       return invoices.slice(0, 14).map((element) => {
-        // console.log(element)
         return (
           <div className="col-md-4" key={element._id}>
             <div className="card my-3 mx-5">

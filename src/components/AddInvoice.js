@@ -27,7 +27,6 @@ export default function AddInvoice() {
       ...invoice,
       netAmount: amount,
     }));
-    console.log(invoice);
   };
   const submitInvoice = () => {
     axios
